@@ -1,5 +1,5 @@
-android-common-network
+android-common-ui
 
-https://jitpack.io/#flashfoxter/android-common-network
+https://jitpack.io/#flashfoxter/android-common-ui
 
-implementation 'com.github.flashfoxter:android-common-network:-SNAPSHOT'
+implementation 'com.github.flashfoxter:android-common-ui:-SNAPSHOT'
